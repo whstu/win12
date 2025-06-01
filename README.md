@@ -1,37 +1,42 @@
-# Windows 12 网页版
+> [!NOTE]
+> 无偿请求帮助我们翻译此项目！目前暂仅需英语。详见[此](lang/readme.md)。
 
-> **🎉🎉Windows 12 网页版一周岁生日快乐！`o(^o^)o`**
-> **向在座的各位的支持表示诚挚的感谢！**
+<p align="center">
+    <img src="./icon/windows12.svg" width="100" height="100">
+</p>
+<h1 align="center">Windows 12 网页版</h1>
+<p align="center" class="shields">
+  <span href="https://github.com/tjy-gitnub/win12/issues" style="text-decoration:none">
+    <img src="https://img.shields.io/github/issues/tjy-gitnub/win12.svg" alt="GitHub issues"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/stargazers" style="text-decoration:none">
+    <img src="https://img.shields.io/github/stars/tjy-gitnub/win12.svg" alt="GitHub stars"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/network" style="text-decoration:none">
+    <img src="https://img.shields.io/github/forks/tjy-gitnub/win12.svg" alt="GitHub forks"/>
+  </span>
+  <span href="https://github.com/tjy-gitnub/win12/blob/master/LICENSE" style="text-decoration:none">
+    <img src="https://img.shields.io/github/license/tjy-gitnub/win12" alt="GitHub License"/>
+  </pan>
+</p>
+<p align="center" class="language" title="Language selection 语言选择">
+  <a href="readme/README_en_us.md">English</a> | 
+  <b>简体中文</b> | 
+  <a href="readme/README_fr_fr.md">Français</a>
+</p>
+<details align="center">
+  <summary>Star History</summary>
+  <a href="https://star-history.com/#tjy-gitnub/win12&Date" style="text-decoration:none">
+    <img src="https://api.star-history.com/svg?repos=tjy-gitnub/win12&type=Date" alt="Star History Chart">
+  </a>
+</details>
 
-```
-千古有冬夏，一载经春秋。破浪长风扶摇起，夜深星源起处。
-天涯何处觅知音，春秋冬夏君相昔。
-一路有你，纵冰塞黄河，雪满太行，不畏，丈夫未可轻年少。
-愿我如星君如月，夜夜流光相皎洁。
+## 公告
 
-感念一年来大家的支持与鼓励，批评和建议。
-Windows 12 的明天在大家的努力下会更灿烂美好！
-————星源 23/8/28
-```
+### 重要！
 
----
-
-> 作者今年初三了，不会做什么功能的更新了。维护和继续开发交给我们的 @User782Tec @NB-Group，详见 [公告](https://github.com/tjy-gitnub/win12/wiki/%E5%85%AC%E5%91%8A-Notices)。
-
-```
-寒窗苦读九春秋，一朝定乾坤。
-山岭越尽云雾散，霞光终万道。
-待蟾折桂题金榜，再叙一载过往！
-后会有期，明年再见，各位朋友，洒家告辞！
-————星源 23/8/30
-```
-
----
-
-> 🎉🎉项目在 GitHub 上突破✨5.3k✨stars✨啦！芜湖，哦耶！哦耶！🎊🎈`o(^o^)o`
-> 向在座的各位的支持表示诚挚的感谢！
-
----
+无偿恳请各位有能力的用户为我们制作宣传片！
+详情请见[宣传片公告](https://github.com/tjy-gitnub/win12/wiki/%E5%AE%A3%E4%BC%A0%E7%89%87%E5%85%AC%E5%91%8A)
 
 - [Windows 12 网页版](#windows-12-网页版)
   - [前前言](#前前言)
@@ -44,12 +49,14 @@ Windows 12 的明天在大家的努力下会更灿烂美好！
   - [开源说明](#开源说明)
   - [贡献须知](#贡献须知)
   - [AI Copilot 实现](#ai-copilot-实现)
+    
+    
 
 ## 前前言
 
 最近（不久之前）看到有一些冒充我们的，在此做个声明：
 
-我们项目是由 tjy-gitnub（初三），NB-group（预备），782（初一），三位开发者共同开发的！
+我们项目的核心开发团队是由 tjy-gitnub（初三），NB-group（预备），782（初一），三位开发者组成的！
 
 （如果你要为我们制作宣传视频，也请顺带把我们的b站账号挂一下
 
@@ -63,15 +70,15 @@ Bilibili：
 
 tjy-gitnub：
 
-![image](https://github.com/tjy-gitnub/win12/assets/121747915/6b13f81a-2a33-4265-abee-44c3796c2817)
+[![image](https://github.com/tjy-gitnub/win12/assets/121747915/6b13f81a-2a33-4265-abee-44c3796c2817)](https://space.bilibili.com/2010692096/)
 
 NB-group：
 
-![image](https://github.com/tjy-gitnub/win12/assets/121747915/9dad6cac-e0e7-44b3-975e-41eaf33520dd)
+[![image](https://github.com/tjy-gitnub/win12/assets/121747915/9dad6cac-e0e7-44b3-975e-41eaf33520dd)](https://space.bilibili.com/1570243738/)
 
 782：
 
-![image](https://github.com/tjy-gitnub/win12/assets/121747915/e475890f-010d-4e47-9ac6-fd4abad26218)
+[![image](https://github.com/tjy-gitnub/win12/assets/121747915/e475890f-010d-4e47-9ac6-fd4abad26218)](https://space.bilibili.com/1046361194/)
 
 爱发电：
 
@@ -79,9 +86,9 @@ NB-group：
 
 ![image](https://github.com/tjy-gitnub/win12/assets/121747915/c4a7e71c-ac41-4ab5-ba87-967d188ca2cc)
 
-链接：https://afdian.net/a/qstudio?tab=feed
+链接：<https://afdian.com/a/qstudio>
 
-**我们的项目及源代码绝对不进行强制收费！如果看到售卖本项目且没有注明原项目链接的，或违反EPL-2.0开源协议及本项目开源说明的，欢迎举报！**
+**我们的项目及源代码绝对不进行强制收费！如果看到倒卖本项目且没有注明原项目链接的，或违反EPL-2.0开源协议及本项目开源说明的，欢迎举报！**
 
 ## 前言
 
@@ -97,8 +104,8 @@ NB-group：
 
 特别感谢以下赞助者:
 
-- CursoR_光标（<https://afdian.net/a/cursor>）
-- Baymax（<https://afdian.net/u/a131cd504dea11eeb6be5254001e7c00>）
+- CursoR_光标（<https://afdian.com/a/cursor>）
+- Baymax（<https://afdian.com/u/a131cd504dea11eeb6be5254001e7c00>）
 
 在此对以上赞助者表示公开鸣谢！
 
@@ -130,7 +137,7 @@ NB-group：
 
 ## 安装和使用
 
-下载代码，无需安装，打开 desktop.html 即可。
+下载代码，无需安装，打开 `desktop.html` 即可。
 
 ## 前景规划
 
@@ -163,7 +170,7 @@ NB-group：
 - [ ] 去除多余系统功能，封装成独立的操作系统
 - [ ] 将项目更名为 "Doswin 1.0"
 - [ ] 适配量子计算机
-- [x] 接入chatgpt
+- [x] 接入ChatGPT
 - [ ] 将项目更名为 "550W"
 
 ## 开源说明
@@ -184,11 +191,11 @@ NB-group：
 
 由于近期发现大量滥用行为，在此规定附加条例：
 
-- 任何使用本项目者，必须在介绍里附上原作者及项目链接，不得故意隐瞒原项目中的署名信息、原作者或项目链接，不得限制查看原项目中的署名信息、原作者或项目链接，且不得修改原项目中的署名信息；
+- 任何使用或分享本项目者，必须在介绍里附上原作者及项目链接，不得故意隐瞒原项目中的署名信息、原作者或项目链接，不得限制查看原项目中的署名信息、原作者或项目链接，且不得修改原项目中的署名信息；
 
-- 将本项目用于商业用途者，需要**标明原作者及项目链接**，且**必须**以 EPL 协议开源。未经修改的源代码**不得用于**商业用途；
+- 将本项目用于商业用途者，需要**标明原作者及项目链接**，且**必须**以 EPL-2.0 协议开源。未经修改的源代码**不得用于**商业用途；
 
-- 任何使用本项目者，不得移除或故意隐藏、限制查看本声明；
+- 任何使用或分享本项目者，不得移除或故意隐藏、限制查看本声明；
 
 - 请您遵守上述规定，我方有权通过法律手段进行合法维权。
 
@@ -199,3 +206,7 @@ NB-group：
 ## AI Copilot 实现
 
 详情请见 [AI Copilot 实现](./scripts/AI%20Copilot%20service/README.md)
+
+
+
+
